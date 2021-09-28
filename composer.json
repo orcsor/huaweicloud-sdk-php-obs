@@ -2,7 +2,6 @@
 	"name" : "orcsor/huaweicloud-sdk-php-obs",
 	"description" : "OBS PHP SDK",
 	"license":"Apache-2.0",
-	"version":"3.21.12",
 	"require" : {
 		"php" : ">=7.2",
 		"psr/http-message" : "1.0.1",
